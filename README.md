@@ -3,4 +3,3 @@ Az alábbi linken található az általam készített Scratch project, melyben k
 
 [Scratch](https://scratch.mit.edu/projects/370650023)
 
-![Test Image 4](https://github.com/tograh/testrepository/3DTest.png)
